@@ -9,7 +9,7 @@ Student in the engineering school ENSISA in Mulhouse, France in Computer Science
 ![](https://github-readme-stats.vercel.app/api?username=Marc-Proux&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marc-Proux&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Proux&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Proux&theme=tokyonight&hide_border=true&include_all_commits=false&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Proux&theme=tokyonight&hide_border=true&include_all_commits=false&layout=compact)
 
 
 ## 🌐 Socials:
