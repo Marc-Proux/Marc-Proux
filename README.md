@@ -8,7 +8,7 @@ Student in the engineering school ENSISA in Mulhouse, France in Computer Science
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marc-Proux&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marc-Proux&theme=tokyonight&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Proux&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=8&hide_border=true&layout=compact)(https://github.com/Marc-Proux/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Proux&include_all_commits=true&count_private=true&theme=tokyonight&langs_count=8&hide_border=true&layout=compact)](https://github.com/Marc-Proux/github-readme-stats)<br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marc_prx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-proux-b25b851ab) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20854137) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@PrxMarc) 
