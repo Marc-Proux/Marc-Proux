@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in the engineering school ENSISA in Mulhouse, France in Computer Science<br>
+Currently a Computer Science and Software Engineering at ENSISA engineering school in Mulhouse, France. I'm also embracing the role of a Sofwtare Engineer Apprentice at Euro-Information Developemments Strasbourg, France. This dual experience is shaping my expertise in software development and engineering, bridging academic knowledge with real-world application. <br/>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
